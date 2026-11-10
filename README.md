@@ -20,6 +20,9 @@ Rbot and Neris are different two different botnet
 - Scenario 10 (Rbot): https://mcfp.felk.cvut.cz/publicDatasets/CTU-Malware-Capture-Botnet-51/
 - Scenario 9 (Neris): https://mcfp.felk.cvut.cz/publicDatasets/CTU-Malware-Capture-Botnet-50/
 ## How to run
-PYTHON 
-
+```
+pip install pandas scikit-learn
+python script.py
+```
+Do not forget to change the file path at the top of each script to point to your downloaded data or it is not going to work =)
 
