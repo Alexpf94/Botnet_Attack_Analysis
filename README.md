@@ -1,5 +1,5 @@
 # Botnet_Attack_Analysis
-Pros and cons of machine learning for botnet attacks
+Testing how well machine learning really detects botnet attacks
 As part of ADELAIDE UNIVERSITY / Security Principles Research Project
 Critical analysis and reproduction of : https://inass.org/wp-content/uploads/2022/05/2022083148-2.pdf
 ## What is it ? 
